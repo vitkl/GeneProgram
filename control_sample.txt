@@ -1,0 +1,13 @@
+--controlFile	c:\GeneProgram\cluster_sample.txt
+--mainOutFileName	c:\GeneProgram\output\iter_burned
+--reanimateFileName	c:\GeneProgram\output\iter_snap_99999.persist
+--iters	10000
+--useGroups
+--groupStartIter	0
+--burnin	0
+--enableSnapShots
+--snapShotInterval	100
+--conc_a	1
+--conc_b	10
+--grpsAlpha_a	1
+--grpsAlpha_b	10

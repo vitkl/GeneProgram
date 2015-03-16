@@ -1,0 +1,6 @@
+--baseFileName	c:\GeneProgram\summary\demo
+--GeneAssocFileName	c:\GeneProgram\annotations.txt
+--minGeneOccurPercent	0.05
+--tissueUseGenesThreshold	0.25
+--nameSpace	biological_process
+--GOHierarchyFileName	C:\GeneProgram\GO.obo

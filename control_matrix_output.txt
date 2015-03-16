@@ -1,0 +1,9 @@
+--basePersistFileName	c:\GeneProgram\output\iter_burned_snap_
+--baseOutputFileName	c:\GeneProgram\summary\demo
+--sampleStart	99
+--sampleIncrement	100
+--numSamples	100
+--modifierFileName	c:\GeneProgram\output\demo_mod_names.txt
+--minGenesInREP	5
+--tissueUseGenesThreshold	0.10
+--minGroupMerge	0.50

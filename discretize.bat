@@ -1,0 +1,2 @@
+java -Xms1280M -Xmx1280M -cp GeneProgram.jar;colt.jar;concurrent.jar;batik-1.6\batik.jar;batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.PreprocessData --controlFile c:\GeneProgram\control_discretize.txt
+copy demo_mod_names.txt output\demo_mod_names.txt

@@ -1,0 +1,15 @@
+--controlFile	c:\GeneProgram\control_burnin.txt
+--mainOutFileName	c:\GeneProgram\output\iter
+--dataFileName	c:\GeneProgram\output\demo_discretized.txt
+--modifierFileName	c:\GeneProgram\output\demo
+--iters	100000
+--burnin	100000
+--enableSnapShots
+--snapShotInterval	1000
+--useGroups
+--groupStartIter	30000
+--noUpDown
+--conc_a	1
+--conc_b	10
+--grpsAlpha_a	1
+--grpsAlpha_b	10

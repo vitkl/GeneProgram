@@ -1,0 +1,2 @@
+java -Xms1280M -Xmx1280M -cp GeneProgram.jar;colt.jar;concurrent.jar;batik-1.6\batik.jar;batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.GeneProgram --controlFile c:\GeneProgram\control_burnin.txt
+java -Xms1280M -Xmx1280M -cp GeneProgram.jar;colt.jar;concurrent.jar;batik-1.6\batik.jar;batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.GeneProgram --controlFile c:\GeneProgram\control_sample.txt
