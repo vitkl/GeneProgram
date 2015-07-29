@@ -1,9 +1,7 @@
 # GeneProgram
 Automated discovery of functional generality of gene expression programs (sets co-expressed genes).
 
-<b>Citation</b><br>
-
-<a href="http://cgs.csail.mit.edu/pubs/plos-comp-bio-2007.pdf">Automated Discovery of Functional Generality of Human Gene Expression Programs</a>.
+<b>Citation</b>:  <a href="http://cgs.csail.mit.edu/pubs/plos-comp-bio-2007.pdf">Automated Discovery of Functional Generality of Human Gene Expression Programs</a>.
 G. K. Gerber, R. D. Dowell, T. S. Jaakkola, and D. K. Gifford. PLOS Computational Biology, 3:8, August 2007. 
 
 <b>Abstract</b><br>
