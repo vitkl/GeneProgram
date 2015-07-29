@@ -1,10 +1,6 @@
 # GeneProgram
 Automated discovery of functional generality of gene expression programs (sets co-expressed genes).
 
-
-# GeneProgram
- Automated discovery of functional generality of gene expression
-
 <b>Citation</b><br>
 
 <a href="http://cgs.csail.mit.edu/pubs/plos-comp-bio-2007.pdf">Automated Discovery of Functional Generality of Human Gene Expression Programs</a>.
