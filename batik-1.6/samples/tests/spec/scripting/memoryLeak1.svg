@@ -23,7 +23,7 @@
 <!-- Modification of text children                                          -->
 <!--                                                                        -->
 <!-- @author nicolas.socheleau@bitflash.com                                 -->
-<!-- @version $Id: memoryLeak1.svg,v 1.5 2004/08/18 07:12:04 vhardy Exp $                                                          -->
+<!-- @version $Id: memoryLeak1.svg 201374 2004-08-18 07:17:26Z vhardy $                                                          -->
 <!-- ====================================================================== -->
 
 <svg id="body" width="450" height="500" viewBox="0 0 450 500">

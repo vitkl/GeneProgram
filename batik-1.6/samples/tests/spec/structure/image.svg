@@ -23,7 +23,7 @@
 <!-- Image element references an SVG file                                   -->
 <!--                                                                        -->
 <!-- @author Thierry.Kormann@sophia.inria.fr                                -->
-<!-- @version $Id: image.svg,v 1.6 2004/12/03 12:20:15 deweese Exp $         -->
+<!-- @version $Id: image.svg 201402 2004-12-03 12:20:16Z deweese $         -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

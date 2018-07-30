@@ -23,7 +23,7 @@
 <!-- Test description here                                                     -->
 <!--                                                                           -->
 <!-- @author bill.haneman@ireland.sun.com                                      -->
-<!-- @version $Id: textLayout2.svg,v 1.5 2004/08/18 07:12:22 vhardy Exp $                                                             -->
+<!-- @version $Id: textLayout2.svg 201374 2004-08-18 07:17:26Z vhardy $                                                             -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="500" viewBox="0 0 450 500">

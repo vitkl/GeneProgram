@@ -23,7 +23,7 @@
 <!-- Modification of an element used in a BackgroundImage                   -->
 <!--                                                                        -->
 <!-- @author vhardy@apache.org                                              -->
-<!-- @version $Id: xyModifOnLoad.svg,v 1.4 2004/08/18 07:12:06 vhardy Exp $  -->
+<!-- @version $Id: xyModifOnLoad.svg 201374 2004-08-18 07:17:26Z vhardy $  -->
 <!-- ====================================================================== -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 <svg id="body" width="450" height="500" viewBox="0 0 450 500">

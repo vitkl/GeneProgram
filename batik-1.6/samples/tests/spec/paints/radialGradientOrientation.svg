@@ -22,7 +22,7 @@
 <!-- Test external paint servers                                               -->
 <!--                                                                           -->
 <!-- @author tkormann@ilog.fr                                                  -->
-<!-- @version $Id: radialGradientOrientation.svg,v 1.4 2005/04/01 02:28:11 deweese Exp $ -->
+<!-- @version $Id: radialGradientOrientation.svg 201439 2005-04-01 02:28:17Z deweese $ -->
 <!-- ========================================================================= -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

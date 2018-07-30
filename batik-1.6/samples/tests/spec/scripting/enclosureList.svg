@@ -24,7 +24,7 @@
 <!-- Testing the getEnclosureList interface on the svg:svg element.      -->
 <!--                                                                        -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: enclosureList.svg,v 1.2 2004/10/14 09:42:00 deweese Exp $ -->
+<!-- @version $Id: enclosureList.svg 201386 2004-10-14 09:42:01Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

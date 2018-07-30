@@ -23,7 +23,7 @@
 <!-- Test description here                                                     -->
 <!--                                                                           -->
 <!-- @author bill.haneman@ireland.sun.com                                      -->
-<!-- @version $Id: textRotate.svg,v 1.10 2004/08/18 07:11:37 vhardy Exp $                                                             -->
+<!-- @version $Id: textRotate.svg 201374 2004-08-18 07:17:26Z vhardy $                                                             -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="./tests/resources/style/test.css" ?>
 

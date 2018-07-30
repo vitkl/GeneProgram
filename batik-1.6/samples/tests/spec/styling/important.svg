@@ -24,7 +24,7 @@
 <!-- Test of the style element                                              -->
 <!--                                                                        -->
 <!-- @author tkormann@ilog.fr                                               -->
-<!-- @version $Id: important.svg,v 1.1 2005/03/29 10:48:01 deweese Exp $ -->
+<!-- @version $Id: important.svg 201438 2005-03-29 10:48:04Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

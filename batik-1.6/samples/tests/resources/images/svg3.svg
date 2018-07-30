@@ -22,7 +22,7 @@
 <!-- ========================================================================= -->
 <!-- Referenced from svgImageXXX.svg                                           -->
 <!-- @author vincent.hardy@eng.sun.com                                         -->
-<!-- @version $Id: svg3.svg,v 1.4 2004/08/18 07:11:47 vhardy Exp $   -->
+<!-- @version $Id: svg3.svg 201374 2004-08-18 07:17:26Z vhardy $   -->
 <!-- ========================================================================= -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="-10 -10 20 20">
     <g id="smilley">

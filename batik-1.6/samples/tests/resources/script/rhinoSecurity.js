@@ -25,7 +25,7 @@
  * back to the server that served the document containing this script.
  *
  * @author <a href="mailto:vhardy@apache.org">Vincent Hardy</a>
- * @version $Id: rhinoSecurity.js,v 1.4 2005/04/01 02:28:11 deweese Exp $
+ * @version $Id: rhinoSecurity.js 201439 2005-04-01 02:28:17Z deweese $
  */
 
 importPackage(Packages.java.awt);

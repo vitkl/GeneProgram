@@ -24,7 +24,7 @@
 <!-- work in Batik for patternRegions                                          -->
 <!--                                                                           -->
 <!-- @author vhardy@eng.sun.com                                                -->
-<!-- @version $Id: patternRegionA.svg,v 1.4 2004/08/18 07:12:01 vhardy Exp $  -->
+<!-- @version $Id: patternRegionA.svg 201374 2004-08-18 07:17:26Z vhardy $  -->
 <!-- ========================================================================= -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

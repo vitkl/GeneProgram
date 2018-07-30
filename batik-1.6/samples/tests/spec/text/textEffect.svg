@@ -23,7 +23,7 @@
 <!--  text effects                                                             -->
 <!--                                                                           -->
 <!-- @author tkormann@apache.org                                               -->
-<!-- @version $Id: textEffect.svg,v 1.5 2004/08/18 07:12:21 vhardy Exp $ -->
+<!-- @version $Id: textEffect.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ========================================================================= -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

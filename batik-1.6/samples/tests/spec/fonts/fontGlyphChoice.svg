@@ -23,7 +23,7 @@
 <!-- Tests the orientation and lang glyph attributes.                          -->
 <!--                                                                           -->
 <!-- @author bella.robinson@cmis.csiro.au                                      -->
-<!-- @version $Id: fontGlyphChoice.svg,v 1.4 2004/08/18 07:11:53 vhardy Exp $     -->
+<!-- @version $Id: fontGlyphChoice.svg 201374 2004-08-18 07:17:26Z vhardy $     -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

@@ -22,7 +22,7 @@
 <!-- means that it applies to itself (no data).                             -->
 <!--                                                                        -->
 <!-- @author vincent.hardy@eng.sun.com                                      -->
-<!-- @version $Id: nodata.xsl,v 1.2 2005/04/01 02:28:10 deweese Exp $        -->
+<!-- @version $Id: nodata.xsl 201439 2005-04-01 02:28:17Z deweese $        -->
 <!-- ====================================================================== -->
 <?xml-stylesheet href="" type="text/xsl"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

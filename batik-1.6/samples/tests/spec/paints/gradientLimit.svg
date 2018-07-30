@@ -23,7 +23,7 @@
 <!-- Limit test on gradients.                                                  -->
 <!--                                                                           -->
 <!-- @author vhardy@apache.org                                                 -->
-<!-- @version $Id: gradientLimit.svg,v 1.5 2004/08/18 07:12:00 vhardy Exp $   -->
+<!-- @version $Id: gradientLimit.svg 201374 2004-08-18 07:17:26Z vhardy $   -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="body" width="450" height="500" viewBox="0 0 450 500">

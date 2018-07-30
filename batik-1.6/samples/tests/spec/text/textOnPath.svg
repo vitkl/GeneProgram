@@ -23,7 +23,7 @@
 <!-- Tests various text on a path                                              -->
 <!--                                                                           -->
 <!-- @author bella.robinson@cmis.csiro.au                                      -->
-<!-- @version $Id: textOnPath.svg,v 1.4 2004/08/18 07:12:22 vhardy Exp $        -->
+<!-- @version $Id: textOnPath.svg 201374 2004-08-18 07:17:26Z vhardy $        -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

@@ -22,7 +22,7 @@
 <!-- Tests vertical text on a path                                              -->
 <!--                                                                           -->
 <!-- @author bella.robinson@cmis.csiro.au                                      -->
-<!-- @version $Id: verticalTextOnPath.svg,v 1.6 2005/04/01 02:28:11 deweese Exp $        -->
+<!-- @version $Id: verticalTextOnPath.svg 201439 2005-04-01 02:28:17Z deweese $        -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

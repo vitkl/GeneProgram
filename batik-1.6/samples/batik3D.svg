@@ -21,7 +21,7 @@
 -->
 <!-- ========================================================================= -->
 <!-- @author vincent.hardy@eng.sun.com                                         -->
-<!-- @version $Id: batik3D.svg,v 1.5 2004/08/18 07:11:36 vhardy Exp $ -->
+<!-- @version $Id: batik3D.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ========================================================================= -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="450" height="500" viewBox="0 0 900 1000" xml:space="preserve">
 	<g id="Background" style="fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;">

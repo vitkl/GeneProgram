@@ -22,7 +22,7 @@
 <!-- Test description here                                                     -->
 <!--                                                                           -->
 <!-- @author bill.haneman@ireland.sun.com                                      -->
-<!-- @version $Id: textRotateShadows.svg,v 1.11 2005/04/01 02:28:10 deweese Exp $                                                             -->
+<!-- @version $Id: textRotateShadows.svg 201439 2005-04-01 02:28:17Z deweese $                                                             -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="./tests/resources/style/test.css" ?>
 

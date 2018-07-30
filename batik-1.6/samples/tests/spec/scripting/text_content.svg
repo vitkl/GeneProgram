@@ -23,7 +23,7 @@
 <!-- Tests text content interface for the various text cases                -->
 <!--                                                                        -->
 <!-- @author bella.robinson@cmis.csiro.au                                   -->
-<!-- @version $Id: text_content.svg,v 1.2 2004/08/18 07:12:06 vhardy Exp $        -->
+<!-- @version $Id: text_content.svg 201374 2004-08-18 07:17:26Z vhardy $        -->
 <!-- ====================================================================== -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

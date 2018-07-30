@@ -23,7 +23,7 @@
 <!-- Modification of a rect's x attribute in an 'onclick' event handler.       -->
 <!--                                                                           -->
 <!-- @author vhardy@apache.org                                                 -->
-<!-- @version $Id: xyModifOnClick.svg,v 1.5 2004/08/18 07:12:06 vhardy Exp $  -->
+<!-- @version $Id: xyModifOnClick.svg 201374 2004-08-18 07:17:26Z vhardy $  -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 <svg id="body" width="450" height="500" viewBox="0 0 450 500">

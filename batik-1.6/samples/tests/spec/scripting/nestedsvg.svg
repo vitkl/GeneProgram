@@ -23,7 +23,7 @@
 <!-- append child test                                                      -->
 <!--                                                                        -->
 <!-- @author tkormann@ilog.fr                                               -->
-<!-- @version $Id: nestedsvg.svg,v 1.3 2004/08/18 07:12:04 vhardy Exp $ -->
+<!-- @version $Id: nestedsvg.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ====================================================================== -->
 
 <svg xmlns="http://www.w3.org/2000/svg" 

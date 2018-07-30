@@ -17,7 +17,7 @@
 <!-- A 52 card deck.  The face cards don't have faces :(                    -->
 <!--                                                                        -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: default.svg,v 1.3 2005/04/01 02:28:10 deweese Exp $          -->
+<!-- @version $Id: default.svg 201439 2005-04-01 02:28:17Z deweese $          -->
 <!-- ====================================================================== -->
 <svg width="1000" height="450" viewBox="0 0 1000 450" 
   xmlns="http://www.w3.org/2000/svg" 

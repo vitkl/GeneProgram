@@ -50,7 +50,7 @@ import javax.sound.sampled.AudioPermission;
  * back to the server that served the document containing this script.
  *
  * @author <a href="mailto:vhardy@apache.org">Vincent Hardy</a>
- * @version $Id: UntrustedScriptHandler.java,v 1.4 2005/03/27 08:58:29 cam Exp $
+ * @version $Id: UntrustedScriptHandler.java 201436 2005-03-27 08:58:37Z cam $
  */
 public class UntrustedScriptHandler implements ScriptHandler {
     public static final String svgNS = "http://www.w3.org/2000/svg";

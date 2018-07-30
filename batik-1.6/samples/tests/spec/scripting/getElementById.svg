@@ -23,7 +23,7 @@
 <!-- Test of the getElementById method                                      -->
 <!--                                                                        -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: getElementById.svg,v 1.2 2005/03/19 01:59:09 deweese Exp $ -->
+<!-- @version $Id: getElementById.svg 201433 2005-03-19 01:59:10Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

@@ -23,7 +23,7 @@
 <!-- xml:base processing test.                                              -->
 <!--                                                                        -->
 <!-- @author thomas.deweese@kodak.com                                       -->
-<!-- @version $Id: xmlBase.svg,v 1.7 2004/08/18 07:12:17 vhardy Exp $    -->
+<!-- @version $Id: xmlBase.svg 201374 2004-08-18 07:17:26Z vhardy $    -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

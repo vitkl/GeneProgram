@@ -29,7 +29,7 @@ import org.w3c.dom.svg.SVGDocument;
  * This class implements the EventListenerInitializer interface.
  *
  * @author <a href="mailto:cjolif@apache.org">Christophe Jolif</a>
- * @version $Id: EventListenerInitializerImpl.java,v 1.3 2005/04/01 02:28:11 deweese Exp $
+ * @version $Id: EventListenerInitializerImpl.java 201439 2005-04-01 02:28:17Z deweese $
  */
 public class EventListenerInitializerImpl implements EventListenerInitializer {
 

@@ -23,7 +23,7 @@
 <!-- Minesweeper in SVG                                                     -->
 <!--                                                                        -->
 <!-- @author thomas.deweese@kodak.com                                       -->
-<!-- @version $Id: mines.svg,v 1.7 2004/08/18 07:11:37 vhardy Exp $    -->
+<!-- @version $Id: mines.svg 201374 2004-08-18 07:17:26Z vhardy $    -->
 <!-- ====================================================================== -->
 
 <svg width="450" height="500" viewBox="0 0 450 500"

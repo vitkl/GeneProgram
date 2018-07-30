@@ -23,7 +23,7 @@
 <!-- Test description here                                                     -->
 <!--                                                                           -->
 <!-- @author tkormann@ilog.fr                                                  -->
-<!-- @version $Id: defs.svg,v 1.13 2004/08/18 07:11:48 vhardy Exp $ -->
+<!-- @version $Id: defs.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ========================================================================= -->
 
 <?xml-stylesheet type="text/css" href="../style/subdir/useStylesheet.css" ?>

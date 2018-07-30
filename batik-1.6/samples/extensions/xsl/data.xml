@@ -25,7 +25,7 @@
 <!-- enabled.                                                                  -->
 <!--                                                                           -->
 <!-- @author vincent.hardy@eng.sun.com                                         -->
-<!-- @version $Id: data.xml,v 1.3 2004/08/18 07:11:46 vhardy Exp $                                                             -->
+<!-- @version $Id: data.xml 201374 2004-08-18 07:17:26Z vhardy $                                                             -->
 <!-- ========================================================================= -->
 <?xml-stylesheet href="data.xsl" type="text/xsl"?>
 <data depth="30">

@@ -23,7 +23,7 @@
 <!-- append child test                                                      -->
 <!--                                                                        -->
 <!-- @author tkormann@ilog.fr                                               -->
-<!-- @version $Id: removeOnclick.svg,v 1.4 2005/02/12 01:48:23 deweese Exp $ -->
+<!-- @version $Id: removeOnclick.svg 201411 2005-02-12 01:48:24Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

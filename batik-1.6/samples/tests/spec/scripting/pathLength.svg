@@ -23,7 +23,7 @@
 <!-- Test of getPathLength, and getPointAtLength interfaces.                -->
 <!--                                                                        -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: pathLength.svg,v 1.2 2005/02/28 17:37:18 deweese Exp $ -->
+<!-- @version $Id: pathLength.svg 201424 2005-02-28 17:37:18Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

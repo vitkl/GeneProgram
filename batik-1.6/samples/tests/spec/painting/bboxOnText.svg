@@ -23,7 +23,7 @@
 <!-- Test created after bug submitted by cjolif@ilog.fr showing a problem with -->
 <!-- radialGradient with objectBoundingBox on a text element.                  -->
 <!-- @author vhardy@apache.org                                                 -->
-<!-- @version $Id: bboxOnText.svg,v 1.4 2004/08/18 07:11:57 vhardy Exp $ -->
+<!-- @version $Id: bboxOnText.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

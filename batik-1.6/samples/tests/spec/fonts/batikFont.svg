@@ -23,7 +23,7 @@
 <!-- Defines a Batik SVG font.                                                 -->
 <!--                                                                           -->
 <!-- @author bella.robinson@cmis.csiro.au                                      -->
-<!-- @version $Id: batikFont.svg,v 1.7 2004/08/18 07:11:52 vhardy Exp $        -->
+<!-- @version $Id: batikFont.svg 201374 2004-08-18 07:17:26Z vhardy $        -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

@@ -22,7 +22,7 @@
 <!-- This interactive test validates that the pointer-events property          -->
 <!--                                                                           -->
 <!-- @author tkormann@ilog.fr                                                  -->
-<!-- @version $Id: pointerEvents2.svg,v 1.3 2005/04/01 02:28:11 deweese Exp $ -->
+<!-- @version $Id: pointerEvents2.svg 201439 2005-04-01 02:28:17Z deweese $ -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

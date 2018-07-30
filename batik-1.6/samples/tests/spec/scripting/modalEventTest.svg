@@ -26,7 +26,7 @@
 <!-- This sequence should not trigger the circle's mouseup handler.         -->
 <!--                                                                        -->
 <!-- @author vincent.hardy@sun.com                                          -->
-<!-- @version $Id: modalEventTest.svg,v 1.4 2004/08/18 07:12:04 vhardy Exp $                                                          -->
+<!-- @version $Id: modalEventTest.svg 201374 2004-08-18 07:17:26Z vhardy $                                                          -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

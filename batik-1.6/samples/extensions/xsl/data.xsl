@@ -20,7 +20,7 @@
 <!-- Courtesy of Max Froumentin. This document is referenced by data.xml       -->
 <!--                                                                           -->
 <!-- @author vincent.hardy@eng.sun.com                                         -->
-<!-- @version $Id: data.xsl,v 1.2 2004/08/18 07:11:46 vhardy Exp $                                                             -->
+<!-- @version $Id: data.xsl 201374 2004-08-18 07:17:26Z vhardy $                                                             -->
 <!-- ========================================================================= -->
 <?xml-stylesheet href="" type="text/xsl"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"

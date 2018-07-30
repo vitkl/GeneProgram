@@ -24,7 +24,7 @@
 <!-- Modification of a rect's attributes                                    -->
 <!--                                                                        -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: zeroSize.svg,v 1.5 2004/11/30 03:23:58 deweese Exp $ -->
+<!-- @version $Id: zeroSize.svg 201399 2004-11-30 03:23:58Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

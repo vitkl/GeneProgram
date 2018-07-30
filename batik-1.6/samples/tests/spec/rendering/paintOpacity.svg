@@ -23,7 +23,7 @@
 <!-- into account for all the types of Paint servers                           -->
 <!--                                                                           -->
 <!-- @author vhardy@apache.org                                                 -->
-<!-- @version $Id: paintOpacity.svg,v 1.4 2005/04/01 02:28:11 deweese Exp $   -->
+<!-- @version $Id: paintOpacity.svg 201439 2005-04-01 02:28:17Z deweese $   -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

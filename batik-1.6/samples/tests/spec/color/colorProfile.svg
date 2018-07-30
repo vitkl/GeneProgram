@@ -25,7 +25,7 @@
 <!-- Base64 images. It also exercises the various rendering-intent options.    -->
 <!--                                                                           -->
 <!-- @author vhardy@apache.org                                                 -->
-<!-- @version $Id: colorProfile.svg,v 1.7 2004/08/18 07:11:49 vhardy Exp $   -->
+<!-- @version $Id: colorProfile.svg 201374 2004-08-18 07:17:26Z vhardy $   -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

@@ -23,7 +23,7 @@
 <!-- Tests various text on a path                                           -->
 <!--                                                                        -->
 <!-- @author bella.robinson@cmis.csiro.au                                   -->
-<!-- @version $Id: flowText.svg,v 1.10 2004/08/18 07:11:42 vhardy Exp $   -->
+<!-- @version $Id: flowText.svg 201374 2004-08-18 07:17:26Z vhardy $   -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="extension.css" ?>

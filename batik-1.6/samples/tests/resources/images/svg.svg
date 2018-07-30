@@ -22,7 +22,7 @@
 <!-- ========================================================================= -->
 <!-- Referenced from image.svg                                                 -->
 <!-- @author vincent.hardy@eng.sun.com                                         -->
-<!-- @version $Id: svg.svg,v 1.5 2004/08/18 07:11:47 vhardy Exp $ -->
+<!-- @version $Id: svg.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ========================================================================= -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="230" height="170" viewBox="0 0 230 170" preserveAspectRatio="xMidYMin slice" >
     <defs>

@@ -24,7 +24,7 @@
 <!-- Tests various text on a path                                           -->
 <!--                                                                        -->
 <!-- @author bella.robinson@cmis.csiro.au                                   -->
-<!-- @version $Id: flowBidi.svg,v 1.1 2004/12/04 18:40:45 deweese Exp $   -->
+<!-- @version $Id: flowBidi.svg 201403 2004-12-04 18:40:45Z deweese $   -->
 <!-- ====================================================================== -->
 
 <svg id="body" width="450" height="500" viewBox="0 0 450 500"

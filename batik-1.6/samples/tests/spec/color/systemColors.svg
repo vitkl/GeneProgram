@@ -22,7 +22,7 @@
 <!-- This document tests CSS system colors.                                    -->
 <!--                                                                           -->
 <!-- @author stephane@hillion.org                                              -->
-<!-- @version $Id: systemColors.svg,v 1.4 2005/04/01 02:28:11 deweese Exp $ -->
+<!-- @version $Id: systemColors.svg 201439 2005-04-01 02:28:17Z deweese $ -->
 <!-- ========================================================================= -->
 
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="500" viewBox="0 0 450 500">

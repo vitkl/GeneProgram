@@ -23,7 +23,7 @@
 <!-- Test description here                                                     -->
 <!--                                                                           -->
 <!-- @author vincent.hardy@sun.com                                             -->
-<!-- @version $Id: javaBinding.svg,v 1.4 2004/08/18 07:12:04 vhardy Exp $                                                             -->
+<!-- @version $Id: javaBinding.svg 201374 2004-08-18 07:17:26Z vhardy $                                                             -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="500" viewBox="0 0 450 500">

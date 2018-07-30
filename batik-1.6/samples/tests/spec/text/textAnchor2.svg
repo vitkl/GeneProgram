@@ -23,7 +23,7 @@
 <!-- Tests text-anchor on multiple text chunks on single tspan element      -->
 <!--                                                                        -->
 <!-- @author tkormann@ilog.fr                                               -->
-<!-- @version $Id: textAnchor2.svg,v 1.5 2005/01/03 10:48:05 deweese Exp $  -->
+<!-- @version $Id: textAnchor2.svg 201407 2005-01-03 10:48:06Z deweese $  -->
 <!-- ====================================================================== -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

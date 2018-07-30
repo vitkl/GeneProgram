@@ -23,7 +23,7 @@
 <!-- Test of paintType DOM interface                                        -->
 <!--                                                                        -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: paintType.svg,v 1.1 2005/03/15 11:24:35 deweese Exp $ -->
+<!-- @version $Id: paintType.svg 201430 2005-03-15 11:24:36Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

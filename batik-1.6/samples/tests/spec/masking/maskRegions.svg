@@ -22,7 +22,7 @@
 <!-- Validates processing of mask regions                                      -->
 <!--                                                                           -->
 <!-- @author vincent.hardy@eng.sun.com                                         -->
-<!-- @version $Id: maskRegions.svg,v 1.4 2005/04/01 02:28:11 deweese Exp $ -->
+<!-- @version $Id: maskRegions.svg 201439 2005-04-01 02:28:17Z deweese $ -->
 <!-- ========================================================================= -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

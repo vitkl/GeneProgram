@@ -22,7 +22,7 @@
 <!-- xml:base processing test.                                              -->
 <!--                                                                        -->
 <!-- @author tkormann@ilog.fr                                               -->
-<!-- @version $Id: xmlBaseStyling.svg,v 1.5 2005/04/01 02:28:11 deweese Exp $ -->
+<!-- @version $Id: xmlBaseStyling.svg 201439 2005-04-01 02:28:17Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

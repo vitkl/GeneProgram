@@ -23,7 +23,7 @@
 <!-- Tests text decorations with SVGFonts, also test tspan                     -->
 <!--                                                                           -->
 <!-- @author bella.robinson@cmis.csiro.au                                      -->
-<!-- @version $Id: fontDecorations.svg,v 1.5 2004/08/18 07:11:52 vhardy Exp $      -->
+<!-- @version $Id: fontDecorations.svg 201374 2004-08-18 07:17:26Z vhardy $      -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

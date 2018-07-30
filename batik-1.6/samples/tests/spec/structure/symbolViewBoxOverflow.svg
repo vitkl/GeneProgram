@@ -25,7 +25,7 @@
 <!-- establish a new viewport and therefore, the overflow property applies.    -->
 <!--                                                                           -->
 <!-- @author vhardy@apache.org                                                 -->
-<!-- @version $Id: symbolViewBoxOverflow.svg,v 1.4 2004/08/18 07:12:17 vhardy Exp $    -->
+<!-- @version $Id: symbolViewBoxOverflow.svg 201374 2004-08-18 07:17:26Z vhardy $    -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

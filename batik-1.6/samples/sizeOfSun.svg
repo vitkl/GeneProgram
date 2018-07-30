@@ -23,7 +23,7 @@
 <!-- Size of the Sun                                                           -->
 <!--                                                                           -->
 <!-- @author tkormann@apache.org                                               -->
-<!-- @version $Id: sizeOfSun.svg,v 1.9 2004/08/18 07:11:37 vhardy Exp $ -->
+<!-- @version $Id: sizeOfSun.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ========================================================================= -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  width="450" height="500" viewBox="0 0 450 500" xml:space="preserve">
   <title>Size of the Sun</title>

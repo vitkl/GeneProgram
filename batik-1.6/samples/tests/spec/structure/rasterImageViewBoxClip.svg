@@ -25,7 +25,7 @@
 <!-- the <image> tag.                                                          -->
 <!--                                                                           -->
 <!-- @author vhardy@apache.org                                                 -->
-<!-- @version $Id: rasterImageViewBoxClip.svg,v 1.4 2004/08/18 07:12:16 vhardy Exp $  -->
+<!-- @version $Id: rasterImageViewBoxClip.svg 201374 2004-08-18 07:17:26Z vhardy $  -->
 <!-- ========================================================================= -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

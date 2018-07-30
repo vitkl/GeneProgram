@@ -23,7 +23,7 @@
 <!-- Opacity2 test. Apply 'opacity' on group                                   -->
 <!--                                                                           -->
 <!-- @author Thierry.Kormann@sophia.inria.fr                                   -->
-<!-- @version $Id: opacity2.svg,v 1.4 2004/08/18 07:12:03 vhardy Exp $     -->
+<!-- @version $Id: opacity2.svg 201374 2004-08-18 07:17:26Z vhardy $     -->
 <!-- ========================================================================= -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>

@@ -23,7 +23,7 @@
 <!-- Modification of the visibility property                                -->
 <!--                                                                        -->
 <!-- @author tkormann@ilog.fr                                               -->
-<!-- @version $Id: visibilityOnClick.svg,v 1.1 2005/02/12 01:48:23 deweese Exp $ -->
+<!-- @version $Id: visibilityOnClick.svg 201411 2005-02-12 01:48:24Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  

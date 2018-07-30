@@ -23,7 +23,7 @@
 <!-- Test the handling of text decoration, especially in the presence of    -->
 <!-- of dx, dy attributes.                                                  -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: textDecoration2.svg,v 1.3 2004/08/18 07:12:21 vhardy Exp $ -->
+<!-- @version $Id: textDecoration2.svg 201374 2004-08-18 07:17:26Z vhardy $ -->
 <!-- ====================================================================== -->
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
 

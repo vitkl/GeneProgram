@@ -24,7 +24,7 @@
 <!-- Testing the getIntersectionList interface on the svg:svg element.      -->
 <!--                                                                        -->
 <!-- @author deweese@apache.org                                             -->
-<!-- @version $Id: intersectionList2.svg,v 1.1 2004/10/14 09:42:00 deweese Exp $ -->
+<!-- @version $Id: intersectionList2.svg 201386 2004-10-14 09:42:01Z deweese $ -->
 <!-- ====================================================================== -->
 
 <?xml-stylesheet type="text/css" href="../../resources/style/test.css" ?>  
