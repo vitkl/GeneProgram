@@ -1,7 +1,7 @@
---controlFile	c:\GeneProgram\control_burnin.txt
---mainOutFileName	c:\GeneProgram\output\iter
---dataFileName	c:\GeneProgram\output\demo_discretized.txt
---modifierFileName	c:\GeneProgram\output\demo
+--controlFile	./control_burnin.txt
+--mainOutFileName	./output/iter
+--dataFileName	./output/demo_discretized.txt
+--modifierFileName	./output/demo
 --iters	100000
 --burnin	100000
 --enableSnapShots

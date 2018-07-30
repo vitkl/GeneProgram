@@ -1,2 +1,2 @@
-java -Xms1280M -Xmx1280M -cp GeneProgram.jar;colt.jar;concurrent.jar;batik-1.6\batik.jar;batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.OutputREPMatrices --controlFile c:\GeneProgram\control_matrix_output.txt
-java -Xms1280M -Xmx1280M -cp GeneProgram.jar;colt.jar;concurrent.jar;batik-1.6\batik.jar;batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.OutputREPStats --controlFile c:\GeneProgram\control_stats_output.txt
+java -Xms1280M -Xmx1280M -cp GeneProgram.jar:colt.jar:concurrent.jar:batik-1.6\batik.jar:batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.OutputREPMatrices --controlFile ./control_matrix_output.txt
+java -Xms1280M -Xmx1280M -cp GeneProgram.jar:colt.jar:concurrent.jar:batik-1.6\batik.jar:batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.OutputREPStats --controlFile ./control_stats_output.txt

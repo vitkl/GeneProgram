@@ -1,7 +1,7 @@
---inputFileName	c:\GeneProgram\demo_values.txt
---baseOutputFileName	c:\GeneProgram\output\demo
+--inputFileName	./demo_values.txt
+--baseOutputFileName	./output/demo
 --threshold	1.0
---baseModifierFileName	c:\GeneProgram\demo_mod
+--baseModifierFileName	./demo_mod
 --numModifiers	1
 --numLevels_end	2
 --noUpDown

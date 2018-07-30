@@ -1,6 +1,5 @@
---controlFile	c:\GeneProgram\cluster_sample.txt
---mainOutFileName	c:\GeneProgram\output\iter_burned
---reanimateFileName	c:\GeneProgram\output\iter_snap_99999.persist
+--controlFile	./cluster_sample.txt
+--mainOutFileName	./output/iter_burned
 --iters	10000
 --useGroups
 --groupStartIter	0

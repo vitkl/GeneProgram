@@ -1,2 +1,3 @@
-java -Xms1280M -Xmx1280M -cp GeneProgram.jar;colt.jar;concurrent.jar;batik-1.6\batik.jar;batik-1.6\batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.PreprocessData --controlFile c:\GeneProgram\control_discretize.txt
-copy demo_mod_names.txt output\demo_mod_names.txt
+geneprogramDIR=/Users/vk7/Desktop/sanger_projects/GeneProgram
+java -Xms1280M -Xmx1280M -cp $geneprogramDIR/GeneProgram.jar:$geneprogramDIR/colt.jar:$geneprogramDIR/concurrent.jar:$geneprogramDIR/batik-1.6/batik.jar:$geneprogramDIR/batik-1.6/batik-svgpp.jar edu.mit.csail.psrg.georg.GeneProgram.PreprocessData --controlFile $geneprogramDIR/control_discretize.txt
+scp demo_mod_names.txt output\demo_mod_names.txt
